@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la /Users/adityalavania/Desktop/Projects/tiny_town_creations/)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp"
+    ]
+  }
+}

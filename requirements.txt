@@ -1,0 +1,13 @@
+Django>=6.0,<6.1
+djangorestframework>=3.15,<4.0
+django-cors-headers>=4.4,<5.0
+django-filter>=24.0,<25.0
+django-cloudinary-storage>=0.3,<1.0
+cloudinary>=1.40,<2.0
+python-dotenv>=1.0,<2.0
+Pillow>=10.0,<12.0
+# Production
+gunicorn>=23.0,<24.0
+psycopg2-binary>=2.9,<3.0
+dj-database-url>=2.3,<3.0
+whitenoise[brotli]>=6.7,<7.0

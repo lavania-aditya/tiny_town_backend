@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "nextjs",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "/Users/adityalavania/Desktop/Projects/tiny_town_creations/tiny_town_web"],
+      "port": 3000
+    }
+  ]
+}

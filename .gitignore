@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+*.whl
+requirements.lock
+.python-version
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment & secrets
+.env
+.env.local
+.env.production
+.env.staging
+*.pem
+
+# Django
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+db.sqlite3
+media/
+staticfiles/
+static_root/
+media_root/
+media/uploads/
+
+# IDE / Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/settings.json
+.idea/workspace.xml
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Testing & coverage
+.coverage
+.coverage.*
+coverage/
+coverage.xml
+htmlcov/
+.pytest_cache/
+.cache/
+hypothesis/
+test.db
+
+# Logs & runtime
+*.log
+*.pot
+*.pid
+var/
+tmp/
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+dmypy.json
+*.pyi
+.stubs/
+
+# Linting & formatting
+.ruff_cache/
+.mypy_cache/
+.pylint.d/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Uploads
+uploads/
+mediafiles/
+
+# Backup
+*.bak
+*.backup
